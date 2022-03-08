@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ronalene! 
 - 👀 I’m interested in software application development. 
-- 🌱 I’m currently learning Python programming language and building some related projects. 
+- 🌱 I’m currently learning ServiceNow. 
 - 💞️ I’m looking forward to have collaboration with other aspiring developers. 
 - 📫 You can reach me @rvquibete@gmail.com. 
 
